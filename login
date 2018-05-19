@@ -9,7 +9,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
-
 public final class Login_server extends javax.swing.JFrame {
 
     ResultSet rs;
